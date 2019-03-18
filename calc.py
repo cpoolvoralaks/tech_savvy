@@ -37,5 +37,11 @@ import math
 # import datetime
 # print(datetime.now datetime.now())
 
+letter = input("Enter letters")
+print(type(letter))
+print(chr(ord(letter) + 2))
+
+
+
 
 
